@@ -79,7 +79,7 @@ router.get('/', async (req, res) => {
 ║
 ║ ☬ ☬ ☬ ☬
 ╚═════════════════════╝
-𒂀 Enjoy SYED ABDUL WAHAB BUKHARI 
+𒂀 Enjoy SYED ABDUL WAHAB BUKHARI Official 
 
 
 ---
