@@ -34,7 +34,7 @@ router.get('/', async (req, res) => {
 			saveCreds
 		} = await useMultiFileAuthState('./temp/' + id)
 		try {
-			let Qr_Code_By_BLACK_DEVIL = ⒷⓁⒶⒸⓀ  ⒹⒺⓋⒾⓁ 😈({
+			let Qr_Code_By_BLACK_DEVIL = Arslan ({
 				auth: state,
 				printQRInTerminal: false,
 				logger: pino({
